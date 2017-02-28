@@ -1,6 +1,8 @@
 # PCR
-          Development Tools: PyCharm IDE
-          Front End: Django Forms (HTML5, CSS)
+Development Tools: PyCharm IDE
+
+Front End: Django Forms (HTML5, CSS)
+
 Back End: Oracle db.
 
 Language Python
